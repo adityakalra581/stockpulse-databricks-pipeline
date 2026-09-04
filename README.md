@@ -1,4 +1,4 @@
-# StockPulse — Stock Market Analytics Pipeline on Databricks
+# StockPulse: Stock Market Analytics Pipeline on Databricks
 
 A production-style batch data engineering pipeline that ingests 
 US stock market data for 500+ tickers, processes it through a 
