@@ -67,7 +67,9 @@ Interactive Databricks SQL Dashboard with 8 widgets:
 - Top 10 Most Volatile stocks by intraday range
 - Full Stock Details table
 
-![Dashboard](dashboard/db1.png)
+![Dashboard](Dashboard/DB1.png)
+![Dashboard](Dashboard/DB2.png)
+![Dashboard](Dashboard/DB3.png)
 
 ---
 
