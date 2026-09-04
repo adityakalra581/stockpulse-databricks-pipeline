@@ -24,7 +24,7 @@ from pyspark.sql.types import StructType, StructField, StringType, TimestampType
 import json
 # Provide your API key directly
 # TODO: Replace with your actual API key
-api_key = "3PQab2J8JDhGlwgGfEmhhhzdXB9GVuow"
+api_key = "<Your API>"
 
 # COMMAND ----------
 
